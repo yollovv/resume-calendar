@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Календарь на октябрь 2025</title>
+</head>
+<body>
+    <table border="1">
+        <caption>Октябрь 2025</caption>
+        <tr>
+            <th></th>
+            <th>Пн</th>
+            <th>Вт</th>
+            <th>Ср</th>
+            <th>Чт</th>
+            <th>Пт</th>
+            <th><strong>Сб</strong></th>
+            <th><strong>Вс</strong></th>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td></td>
+            <td></td>
+            <td><del>1</del></td>
+            <td><del>2</del></td>
+            <td><del>3</del></td>
+            <td><strong><del>4</del></strong></td>
+            <td><strong><del>5</del></strong></td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td><del>6</del></td>
+            <td><del>7</del></td>
+            <td><del>8</del></td>
+            <td><del>9</del></td>
+            <td><del>10</del></td>
+            <td><strong><del>11</del></strong></td>
+            <td><strong><del>12</del></strong></td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td><del>13</del></td>
+            <td><del>14</del></td>
+            <td><del>15</del></td>
+            <td><del>16</del></td>
+            <td><del>17</del></td>
+            <td><strong><del>18</del></strong></td>
+            <td><strong><del>19</del></strong></td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td><mark>20</mark></td>
+            <td>21</td>
+            <td>22</td>
+            <td>23</td>
+            <td>24</td>
+            <td><strong>25</strong></td>
+            <td><strong>26</strong></td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>27</td>
+            <td>28</td>
+            <td>29</td>
+            <td>30</td>
+            <td>31</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
