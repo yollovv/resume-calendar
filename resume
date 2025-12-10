@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме - Ксения Иванова | Фронтенд разработчик</title>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Ксения Иванова</h1>
+            <h2>Начинающий фронтенд разработчик</h2>
+            <img src="https://via.placeholder.com/150x150?text=фотоксю" alt="Фотография" width="150" height="150">
+            <p>Ищу работу фронтенд разработчика, обладаю базовыми навыками, необходимыми в этой профессии, а также развитыми софт скиллами.</p>
+        </div>
+    </header>
+    
+    <hr>
+    
+    <section>
+        <article>
+            <h3>Контактная информация</h3>
+            <dl>
+                <dt><strong>Электронная почта:</strong></dt>
+                <dd><a href="mailto:kseniia_iv@example.com">kseniia_iv@example.com</a></dd>
+                
+                <dt><strong>Телефон:</strong></dt>
+                <dd><a href="tel:+78000000000">+7 (800) 000-00-00</a></dd>
+                
+                <dt><strong>Город:</strong></dt>
+                <dd>Москва</dd>
+                
+                <dt><strong>GitHub:</strong></dt>
+                <dd><a href="https://github.com/kseniia" target="_blank">github.com/ksenia</a></dd>
+            </dl>
+        </article>
+    </section>
+    
+    <hr>
+    
+    <section>
+        <h3>Навыки</h3>
+        <div class="skills">
+            <article>
+                <h4>Технические навыки (хард скиллы)</h4>
+                <ul>
+                    <li><strong>HTML5</strong> - семантическая верстка</li>
+                    <li><strong>CSS3</strong> - Flexbox, Grid, адаптивная верстка</li>
+                    <li><strong>JavaScript (ES6+)</strong> - основы языка</li>
+                    <li><strong>Git</strong> - базовое использование</li>
+                    <li><strong>Figma</strong> - работа с макетами</li>
+                </ul>
+            </article>
+            
+            <article>
+                <h4>Софт скиллы</h4>
+                <ol>
+                    <li><em>Ответственность</em> и пунктуальность</li>
+                    <li><em>Умение работать в команде</em></li>
+                    <li>Быстрая обучаемость</li>
+                    <li>Критическое мышление</li>
+                    <li>Навыки решения проблем</li>
+                    <li>Коммуникативные способности</li>
+                </ol>
+            </article>
+        </div>
+    </section>
+    
+    <hr>
+    
+    <section>
+        <h3>Образование</h3>
+        <table>
+            <colgroup>
+                <col style="width: 30%">
+                <col style="width: 40%">
+                <col style="width: 30%">
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>Период</th>
+                    <th>Учебное заведение / Курс</th>
+                    <th>Специальность / Направление</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2023 - 2024</td>
+                    <td>Яндекс.Практикум</td>
+                    <td>Фронтенд разработчик</td>
+                </tr>
+                <tr>
+                    <td>2023 - 2027</td>
+                    <td>РЭУ им. Г.В.Плеханова</td>
+                    <td>Математическое обеспечение и администрирование информационных сетей</td>
+                </tr>
+                <tr>
+                    <td>2022</td>
+                    <td>HTML Academy</td>
+                    <td>Профессия «Фронтенд-разработчик»</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    
+    <section>
+        <h3>Опыт работы</h3>
+        <table>
+            <colgroup>
+                <col style="width: 30%">
+                <col style="width: 40%">
+                <col style="width: 30%">
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>Период</th>
+                    <th>Должность</th>
+                    <th>Место работы</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2024 - настоящее время</td>
+                    <td>Верстальщик (фриланс)</td>
+                    <td>Удаленная работа</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><em>Опыта работы в коммерческой разработке пока нет, но есть готовность быстро обучаться и применять знания на практике.</em></p>
+    </section>
+    
+    <hr>
+    
+    <section>
+        <h3>Проекты</h3>
+        <article>
+            <h4>Учебные проекты</h4>
+            <ul>
+                <li><strong>Сайт-визитка</strong> - адаптивный лендинг с использованием HTML5, CSS3 и JavaScript</li>
+                <li><strong>Интернет-магазин</strong> - макет интернет-магазина с корзиной товаров (учебный проект)</li>
+                <li><strong>Игра "7 чудес"</strong> - браузерная игра на чистом JavaScript</li>
+            </ul>
+        </article>
+    </section>
+    
+    <hr>
+    
+    <section>
+        <h3>Дополнительная информация</h3>
+        <article>
+            <p>Изучаю английский язык (уровень Intermediate). Интересуюсь современными трендами в веб-разработке, посещаю тематические митапы и конференции. Готова к сложным задачам и активному профессиональному росту.</p>
+            <p>В свободное время занимаюсь созданием собственных проектов для портфолио и изучением новых технологий.</p>
+        </article>
+    </section>
+    
+    <footer>
+        <div class="footer-content">
+            <p><strong>Дата составления резюме:</strong> ноябрь 2025</p>
+            <p>Согласна на удаленную работу или работу в офисе в Москве</p>
+            <p><a href="mailto:kseniia_iv@example.com">Связаться со мной</a> | <a href="https://github.com/kseniia" target="_blank">Мой GitHub</a></p>
+        </div>
+    </footer>
+</body>
+</html>
